@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="de.devpix.model.data.Tag"/>
+    <classEntry path="flexUnitTests.TagTest"/>
+    <classEntry path="flexUnitTests.TestSuite1"/>
+    <classEntry path="de.devpix.model.data.MdNote"/>
+    <classEntry path="flexUnitTests.MdNoteTest"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
